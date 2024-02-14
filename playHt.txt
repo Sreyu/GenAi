@@ -1,0 +1,11 @@
+PlayHT: PlayHT is a platform that allows you to clone voices using artificial intelligence. The platform uses a deep learning model to train a voice clone that sounds almost exactly like the original voice.
+- **Steps for creating PlayHT Account:**
+    
+    Following are the steps for creating an account for “PlayHT Account”:
+    
+    - Open https://play.ht/
+    - Click on Login
+    - Since you don’t have an account, click on the Sign Up button
+    - Click on Sign Up with Google
+    - Account will be created
+    - **How to Clone a Voice in PlayHT:**

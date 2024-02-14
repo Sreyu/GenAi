@@ -1,0 +1,9 @@
+- **Open AI:** An AI-based chat service powered by Open AI's language model.
+    - **Steps for creating Open AI Account:**
+        
+        Here are the general steps you can follow to create an “OpenAI” account:
+        
+        - Open https://openai.com/
+        - Click on Sign Up
+        - Click Sign In with Google
+        - Below options will be show

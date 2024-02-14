@@ -1,0 +1,8 @@
+- **Pinecone:** A scalable vector database service designed for efficient similarity search in high-dimensional data.
+    - **Steps for creating Pinecone Account:**
+        
+        Here are the general steps to create a Pinecone account:
+        
+        - Open https://www.pinecone.io/
+        - Click on Sign Up Free Button
+        - Click on continue with Google
